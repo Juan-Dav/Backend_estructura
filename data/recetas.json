@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "titulo": "pizza",
+        "ingredientes": ["masa", "salsa de tomate", "queso", "jamón", "champiñones"],
+        "pasos": [
+            "Precalentar el horno a 220 grados Celsius.",
+            "Extender la masa de pizza sobre una bandeja para hornear.",
+            "Cubrir la masa con salsa de tomate.",
+            "Agregar queso rallado y los ingredientes deseados.",
+            "Hornear durante 15-20 minutos o hasta que la masa esté dorada y el queso burbujeante."
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "ensalada de frutas",
+        "ingredientes": ["manzana", "plátano", "naranja", "uvas", "fresas", "yogur"],
+        "pasos": [
+            "Lavar y cortar todas las frutas en trozos pequeños.",
+            "Mezclar las frutas en un bol grande.",
+            "Agregar yogur al gusto y mezclar bien.",
+            "Refrigerar durante 30 minutos antes de servir."
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "tacos de pollo",
+        "ingredientes": ["tortillas de maíz", "pechuga de pollo", "lechuga", "tomate", "queso rallado", "salsa"],
+        "pasos": [
+            "Cocinar la pechuga de pollo en una sartén hasta que esté bien cocida.",
+            "Calentar las tortillas de maíz en otra sartén.",
+            "Cortar la lechuga y el tomate en trozos pequeños.",
+            "Armar los tacos colocando el pollo, la lechuga, el tomate y el queso rallado en las tortillas.",
+            "Agregar salsa al gusto y servir."
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "batido de plátano y fresa",
+        "ingredientes": ["plátanos", "fresas", "leche", "miel"],
+        "pasos": [
+            "Lavar las fresas y cortar los plátanos en trozos.",
+            "Colocar las frutas en una licuadora.",
+            "Agregar leche y miel al gusto.",
+            "Licuar hasta obtener una mezcla suave.",
+            "Servir frío."
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "sopa de verduras",
+        "ingredientes": ["zanahorias", "apio", "cebolla", "calabacín", "tomate", "caldo de verduras"],
+        "pasos": [
+            "Picar todas las verduras en trozos pequeños.",
+            "En una olla grande, sofreír la cebolla hasta que esté transparente.",
+            "Agregar las demás verduras y el caldo de verduras.",
+            "Cocinar a fuego medio durante 30 minutos o hasta que las verduras estén tiernas.",
+            "Sazonar con sal y pimienta al gusto antes de servir."
+        ]
+    }
+]
